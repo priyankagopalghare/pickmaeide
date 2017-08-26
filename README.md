@@ -4,7 +4,7 @@ Pickmaeride, is two wheeler pooling system for college students. Front End :node
 Software Installation :
  1: npm packages
     cmd: npm install <packagename> --save
-    Install all required packages suck as mongodb,body-parser,angular,mongoose etc.
+    Install all required packages such as mongodb,body-parser,angular,mongoose etc.
     
  2: Install mongodb server on windows
  
